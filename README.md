@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/Hmm-1224/Hmm-1224/blob/main/github-header-image.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm sonal kumari 👋</h1>
