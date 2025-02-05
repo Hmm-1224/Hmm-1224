@@ -14,33 +14,34 @@
 - 🎓 CS Student | Aspiring Software Engineer  
 - ⚡ Interested in **AI/ML, DSA, Computer architecture, OS, Cybersecurity**  
 - 💡 Solving **LeetCode & Codeforces** challenges daily  
-- 📫 Reach me at: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-23b0910@iitb.ac.in)
-
 ---
 
 ### 🚀 My Tech Stack  
 
 #### 🖥️ Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,python,java,js,HTML,CSS" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 
 #### 📚 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras,opencv,Deepface,DJANGO" />
+  <img src="https://skillicons.dev/icons?i=flask,django,tensorflow,keras" />
+  <br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepFace-009688?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 #### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 #### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,JSON,linux(ubuntu)" />
+  <img src="https://skillicons.dev/icons?i=github,docker,linux" />
+  <br>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
-
-
 
 ### 📫 Connect with Me  
 <p align="center">
