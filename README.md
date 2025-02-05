@@ -10,11 +10,12 @@
 
 ---
 
-### 🌟 About Me
-- 🎓 CS Student | Aspiring Software Engineer  
-- ⚡ Interested in **AI/ML, DSA, Computer architecture, OS, Cybersecurity**  
-- 💡 Solving **LeetCode & Codeforces** challenges daily  
----
+## 🎓 CS Student | Aspiring Software Engineer | Research Enthusiast  
+
+🔬 Passionate about **Machine Learning, AI, and DSA, Economics**  
+📌 Looking for **Research Internship Opportunities** in **AI, ML, Computer architecture and Software Development**  
+📖 Currently exploring **Deep Learning & Computer Vision**  
+
 
 ### 🚀 My Tech Stack  
 
