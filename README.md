@@ -18,34 +18,29 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 🚀 My Tech Stack  
+
+#### 🖥️ Programming Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://skillicons.dev/icons?i=c++,python,java,js,HTML,CSS" />
 </p>
 
----
-
-### 🚀 My Tech Stack
+#### 📚 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,python,java,js,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=flask,tensorflow,keras,opencv,Deepface,DJANGO" />
 </p>
 
----
-
-### 📌 Top Languages
+#### 🗄️ Databases  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
----
-
-### 🐍 Contribution Graph
+#### 🛠️ Tools & Platforms  
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://skillicons.dev/icons?i=github,docker,JSON,linux(ubuntu)" />
 </p>
 
----
+
 
 ### 📫 Connect with Me  
 <p align="center">
