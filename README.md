@@ -43,8 +43,7 @@
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hmm-1224&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hmm-1224&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmm-1224&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hmm-1224&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
