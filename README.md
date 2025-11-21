@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about Problem-Solving | 💻 Open-Source Enthusiast | 🏆 Competitive Programmer
+  Passionate about Problem-Solving | Open-Source Enthusiast |  Competitive Programmer
 </p>
 
 ---
